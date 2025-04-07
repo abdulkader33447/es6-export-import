@@ -1,5 +1,9 @@
 {
+
   "name": "react-world-onthe-go",
+
+  "name": "es6-export-import",
+
   "private": true,
   "version": "0.0.0",
   "type": "module",
